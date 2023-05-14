@@ -1,2 +1,2 @@
-# PDL-Graphs
+# PDL-Grapher
  PDL grapher using matplotlib
